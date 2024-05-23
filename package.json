@@ -1,9 +1,9 @@
 {
-  "name": "draw-ai-game-2",
+  "name": "draw-ai",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pf274.github.io/draw",
+  "homepage": "https://pf274.github.io/draw-ai",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
